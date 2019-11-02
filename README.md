@@ -9,4 +9,5 @@ mirro s hrvatskih servera (Plus hosting) [ISO slika](http://mirror.centos.plus.h
 - Linux 
 - Windows
 
-### 
+### Instalacija
+[Instalacija](instalacija/README.md)
