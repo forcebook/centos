@@ -1,4 +1,5 @@
-# Centos 7
-The **C**ommunity **ENT**erprise **O**perating **S**ystem - Install 
+## Centos 7
+The **C**ommunity **ENT**erprise **O**perating **S**ystem - Instalacija minimal
 
-
+- Skinuti posljednju verziju s službenih stranica [CentOS ISO DVD](https://www.centos.org/download/) 
+ili mirros s hrvatskih servera (Plus hosting) [ISO slika](http://mirror.centos.plus.hr/centos/7.7.1908/isos/x86_64/CentOS-7-x86_64-Minimal-1908.iso) u ISO formatu.
