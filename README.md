@@ -1,2 +1,4 @@
-# centos-7
-Centos 7
+# Centos 7
+The Community ENTerprise Operating System - Install 
+
+
