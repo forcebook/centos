@@ -1,18 +1,3 @@
-----
-+
-3. Select SSG Profile +
-From the SCC home screen, select option 2, "Configure SCAP profiles"
-+
-----
-    SCC 3.1 RC2 configuration edit menu.
-    Make menu selection:
-
-    1. Configure SCAP content
-    2. Configure SCAP profiles
-    3. Delete SCAP content
-    4. Configure OVAL content
-    5. Delete OVAL content
-    6. Configure Options
-    7. Configure SSH Options
-    8. Exit and save changes
-    9. Exit without saving changes
+ifdef::env-github[]
+:imagesdir: foo/
+endif::[]
