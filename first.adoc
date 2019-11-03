@@ -19,16 +19,7 @@ TIP: It works!
 
 IMPORTANT: Asciidoctor is awesome, don't forget!
 
-CAUTION: Don't forget to add the `...-caption` document attributes in the header of the document on GitHub.
+CAUTION: Ne zaboravite dodati komenta string kad dodajet kod `...-caption` atributi dokumenta u headerubilo kojeg dokumenta na GitHub.
 
 WARNING: You have no reason not to use Asciidoctor.
 
-```
-code for coding
-```
-toc::[]
-
-
-image::https://avatars3.githubusercontent.com/u/3137042?v=3&s=200[]
-
-Is too complicated to write this
