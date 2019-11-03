@@ -20,8 +20,9 @@ Minimalna instalacijska slika sadrži samo one pakete koji su potrebni za funkci
 
 Najvjerojatnije ćete htjeti preuzeti „DVD ISO“ verziju.
 
-### Stvaranje Bootable CentOS 7 USB Stick-a na Linuxu
 
+### Stvaranje Bootable CentOS 7 USB Stick-a na Linuxu
+![Image](centos_usb_bootable.jpg)
 Iako postoji mnogo različitih GUI alata koji vam omogućuju flash ISO slike na USB pogonima, u ovom ćemo vodiču stvoriti pokretački CentOS 7 USB stick za pokretanje pomoću naredbe dd.
 
 Stvaranje Bootable CentOS 7 USB Stick-a na Linuxu je brz i jednostavan proces, samo slijedite korake opisane u nastavku.
