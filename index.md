@@ -27,5 +27,5 @@ Iako postoji mnogo različitih GUI alata koji vam omogućuju flash ISO slike na 
 
 Stvaranje Bootable CentOS 7 USB Stick-a na Linuxu je brz i jednostavan proces, samo slijedite korake opisane u nastavku.
 
-1. Umetnite USB fleš pogon u USB priključak.
+1. Umetnite USB disk u USB priključak.
 2. Saznajte naziv USB pogona pomoću naredbe lsblk:
